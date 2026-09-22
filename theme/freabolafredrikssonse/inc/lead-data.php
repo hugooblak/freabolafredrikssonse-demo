@@ -15,6 +15,5 @@ return array(
 		array( 'Jag fick hjälp från två elektriker vid två olika tillfällen och båda utförde jobbet som jag önskat.', 'Faramarz Bagheri', 'för 4 år sedan' ),
 		array( 'Väldigt bra service. Kan fixa det mesta, och få fram det som inte finns. Snabba oxå vid hemjobb!', 'Kjell Sandström', 'Redigerat för 4 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
 	'ar_riktig'      => true,
 );
