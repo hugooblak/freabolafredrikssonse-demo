@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'FREAB, Ola Fredrikssons Elektriska AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '0921-557 10',
 	'telefon_tel'    => '+4692155710',
 	'betyg'          => '4,4',
